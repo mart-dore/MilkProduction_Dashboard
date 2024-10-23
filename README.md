@@ -38,7 +38,6 @@ You can try the application live by visiting: [**LIVE DEMO**](https://martindore
 ## 📂 Project Structure
 
 ```
-├── Data/                   # Sample datasets for testing
 ├── app.R                   # R script for the RShiny application
 ├── data.xlsx               # Sample dataset for demonstration
 └── README.md               # Project description
