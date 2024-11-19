@@ -13,6 +13,10 @@ One of the main features of this dashboard is to enable *non-expert* in data ana
 - **data.xlsx**: A sample dataset to demonstrate the functionality of the application.
 - **README.md**: Project description and instructions on how to use the application.
 
+## 📡 Live Demo
+
+You can try the application live by visiting: [**LIVE DEMO**](https://martindore.shinyapps.io/Milk_Production_Analysis/)
+---
 
 ## Dashboard Pages
 ### Data Importation
@@ -33,9 +37,7 @@ To create indicators/KPIs to compare both groups.
 ![image](https://github.com/user-attachments/assets/7b4c587c-c59b-475f-964a-3e575482ea97)
 
 
-## 📡 Live Demo
 
-You can try the application live by visiting: [**LIVE DEMO**](https://martindore.shinyapps.io/Milk_Production_Analysis/)
 
 ## 🚀 How to Use on your own
 
