@@ -11,6 +11,11 @@ This project involves a **Milk Production Analysis** and was developed as part o
 - **data.xlsx**: A sample dataset to demonstrate the functionality of the application.
 - **README.md**: Project description and instructions on how to use the application.
 
+
+## Dashboard Pages
+![Statistical Analysis](https://github.com/user-attachments/assets/bf5f8141-a383-44c2-b851-1733f47bccbd)
+
+
 ## 📡 Live Demo
 
 You can try the application live by visiting: [**LIVE DEMO**](https://martindore.shinyapps.io/Milk_Production_Analysis/)
@@ -21,14 +26,8 @@ You can try the application live by visiting: [**LIVE DEMO**](https://martindore
    ```bash
    git clone [repository URL]
    ```
-
-2. Install the necessary packages if you haven't already:
-   ```R
-   install.packages("shiny")
-   install.packages("ggplot2") # Add any other required packages here
-   ```
-
-3. Run the RShiny application:
+   
+2. Run the RShiny application:
    ```R
    shiny::runApp("app.R")
    ```
