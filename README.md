@@ -13,7 +13,22 @@ This project involves a **Milk Production Analysis** and was developed as part o
 
 
 ## Dashboard Pages
-![Statistical Analysis](https://github.com/user-attachments/assets/bf5f8141-a383-44c2-b851-1733f47bccbd)
+### Data Importation
+Allows you to import your dataset, clean the data (remove outliers, missing values...) and choose a range of date to focus on. And then download dataset to save changes.
+![image](https://github.com/user-attachments/assets/e274a9fc-e9f6-4115-b6c7-70cbae91e219)
+
+### Data Visualisation
+Differents interactive plotly plots to understand repartition of the data and differences between groups.
+![image](https://github.com/user-attachments/assets/725d4553-83c6-40f2-a55f-9dbdfc23d021)
+
+
+### Statistical Analysis
+Allows you to choose the formula of a multiple linear regression model and visualise it.
+![image](https://github.com/user-attachments/assets/53282a3f-56b9-48ad-a75d-59050b74a4fb)
+
+### Indicator Creation
+To create indicators/KPIs to compare both groups.
+![image](https://github.com/user-attachments/assets/7b4c587c-c59b-475f-964a-3e575482ea97)
 
 
 ## 📡 Live Demo
