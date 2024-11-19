@@ -2,7 +2,9 @@
 
 ## 📚 Overview
 
-This project involves a **Milk Production Analysis** and was developed as part of my work as a **freelance Data Analyst**. The project utilizes an **RShiny** application to provide a comprehensive analysis of milk production data. Users can upload their own `data.xlsx` files to explore various analytical insights related to milk production trends and metrics.
+This project involves a **Milk Production Analysis** and was developed as part of my work as a **freelance Data Analyst**. The project utilizes an **RShiny** application to provide a comprehensive analysis of milk production data. Users can upload their own `data.xlsx` files to explore various analytical insights related to milk production trends and metrics.  
+
+One of the main features of this dashboard is to enable *non-expert* in data analysis to conduct a complete statistical and machine learning study in an intuitive and straightforward manner. The primary objective is to facilitate the comparison of milk production between two distinct groups, providing clear insights and actionable results through user-friendly tools and visualizations.
 
 ## 🛠 Files and Directories
 
